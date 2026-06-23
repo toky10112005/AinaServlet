@@ -2,7 +2,7 @@
 
 # 📌 Définition des variables
 CHEMIN_SERVLET="/home/toky/S4/Web_dynamique"
-APP_NAME="AinaMVC"
+APP_NAME="AinaServlet"
 SRC_DIR="$CHEMIN_SERVLET/$APP_NAME/src/main/java"
 WEB_DIR="$CHEMIN_SERVLET/$APP_NAME/src/main/webapp"
 BUILD_DIR="build"

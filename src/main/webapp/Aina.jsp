@@ -8,7 +8,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Accueil - BankWebsite</title>
+    <title>Accueil - framework Foronona</title>
     
 </head>
 <body>
@@ -18,6 +18,7 @@
             <h1>Bienvenue</h1>
             <p style="color:#777;margin-bottom:28px;">ETU004307</p>
             <p>Voici l'url: ${url}</p>
+            <p>${annotation}</p>
 
         </div>
     </div>
